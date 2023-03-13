@@ -1,7 +1,7 @@
 # mightymufflon
 Welcome to our Semester Project for the Module Data Warehouse and Data Lake Systems. This project was conducted by Joel Hirschi, Lukas Niederhäuser and Daniel Podolecki and is made for the Indie Game Developer Team "Mighty Mufflon Games". The goal is to give an overview about the video game market based on several sources and to give a possibility to estimate the revenue based on input parameters.
 
-Note this is a clone from the original project: https://github.com/Harigata/mightymufflon
+-- This is a clone from the original project: https://github.com/Harigata/mightymufflon
 
 
 ##  General Setup
