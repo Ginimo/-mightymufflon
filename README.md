@@ -4,12 +4,6 @@ Welcome to our Semester Project for the Module Data Warehouse and Data Lake Syst
 It is made for the Indie Game Developer Team "Mighty Mufflon Games". The goal is to give an overview about the video game market based on several sources and to give a possibility to estimate the revenue based on input parameters.
 
 
-## Link to our Github Project
-
-This Github Project contains all related scripts for this project:
-https://github.com/Harigata/mightymufflon/
-
-
 ##  General Setup
 
 For this project you will need to have an Amazon account and you need to configure three S3 Buckets for the Data Lake Raw Zone, one RDS for the Data Lake Cleaned Zone and one RDS for the Data Warehouse. Additionally you will need to have a Virtual Machine in order to run Airflow on it. For that you can use EC2 in the AWS Environment or you can come up with your own VM solution.
